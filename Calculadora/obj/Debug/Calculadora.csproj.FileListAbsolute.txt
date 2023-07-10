@@ -1,0 +1,8 @@
+C:\Users\jogos\Calculadora_Dante\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jogos\Calculadora_Dante\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jogos\Calculadora_Dante\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jogos\Calculadora_Dante\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jogos\Calculadora_Dante\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jogos\Calculadora_Dante\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jogos\Calculadora_Dante\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jogos\Calculadora_Dante\Calculadora\obj\Debug\Calculadora.pdb
